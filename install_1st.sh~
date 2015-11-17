@@ -1,7 +1,0 @@
-#!/bin/sh
-sudo apt-get -y update
-sudo apt-get -y upgrade
-sudo apt-get install -y --force-yes qemu-kvm libvirt-bin ubuntu-vm-builder bridge-utils virt-manager qemu-system virt-viewer
-sudo adduser root libvirtd
-sudo adduser root kvm
-sudo reboot -f
