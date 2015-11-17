@@ -1,0 +1,13 @@
+<resourceList>
+  <resource>
+    <index>0</index>
+  	<id>0</id>
+  	<s_name>jinnie_ser</s_name>
+  	<disk>1</disk>
+  	<cpu>1</cpu>
+  	<ram>1</ram>
+  	<reason>null</reason>
+  	<permission>waiting</permission>
+  	<time></time>
+   </resource>
+ </resourceList>

@@ -1,0 +1,35 @@
+@CHARSET "EUC-KR";
+.btn-status{
+/* 	width: 50px; */
+/* 	height: 30px; */
+	padding: 3px 12px;
+	float: inherit;
+	font-size: 12px;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #FF8000;
+}
+.stop{
+	background-color: #b51717;
+	color: #fff;
+}
+.stop:HOVER {
+	outline-color: #fff;
+}
+.run{
+	background-color: #3e964d;
+	color: #fff;
+}
+.run:HOVER{
+	outline-color: #fff;
+}
+.btn-approve{
+	padding: 6px 12px;
+	background-color: #088A29;
+	color:#fff;
+}
+.btn-deny{
+	padding: 6px 12px;
+	background-color: #B40404;
+	color:#fff;
+}

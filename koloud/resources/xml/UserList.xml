@@ -1,0 +1,27 @@
+<userList>
+  <user>
+    <id>1</id>
+    <name>admin</name>
+    <email>admin@koloud.com</email>
+    <password>admin</password>
+    <sysPassword>dd</sysPassword>
+    <level>3</level>
+    <time>11</time>
+  </user>
+  <user>
+    <id>2</id>
+    <name>vv</name>
+    <email>joya@nate.com</email>
+    <password>vv</password>
+    <level>1</level>
+    <time>11</time>
+  </user>
+  <user>
+    <id>3</id>
+    <name>jinnie</name>
+    <email>joyajin91@gmail.com</email>
+    <password>dltmdrl</password>
+    <level>1</level>
+    <time>11</time>
+  </user>
+</userList>

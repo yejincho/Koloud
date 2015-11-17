@@ -1,0 +1,11 @@
+<mailList>
+	<mail>
+		<sender>koloudservice</sender>
+		<receiver_email>joyajin91@gmail.com</receiver_email>
+		<receiver_name>admin</receiver_name>
+		<contents>ddd</contents>
+		<subject>welcome</subject>
+		<type>register</type>
+		<time>2015-02-10 22:35:48.783</time>
+	</mail>
+</mailList>
